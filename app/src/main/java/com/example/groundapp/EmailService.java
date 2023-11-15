@@ -13,7 +13,7 @@ import javax.mail.internet.MimeMessage;
 
 public class EmailService {
     static String GMAIL_USER = "alexkorobov95@gmail.com";
-    static String GMAIL_PASSWORD = "ahto gapv ionh xznr";
+    static String GMAIL_PASSWORD = "";
     public static void sendEmail(String smsBody, String receiverEmail, String sender) {
 
         try {
