@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GroundApp</string>
+    <string name="sms_resending_process_started">SMS resending process started</string>
+    <string name="now_you_can_block_your_phone">Now you can block your phone</string>
+</resources>
